@@ -1,0 +1,79 @@
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\KÜLTÜR SAĞLIK TAKİP UYGULAMASI.exe.config
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\KÜLTÜR SAĞLIK TAKİP UYGULAMASI.exe
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\KÜLTÜR SAĞLIK TAKİP UYGULAMASI.pdb
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR SAĞLIK TAKİP UYGULAMASI.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.Form1.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.Properties.Resources.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR SAĞLIK TAKİP UYGULAMASI.csproj.GenerateResource.cache
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR SAĞLIK TAKİP UYGULAMASI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\K_LT_R S.83171C33.Up2Date
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR SAĞLIK TAKİP UYGULAMASI.exe
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR SAĞLIK TAKİP UYGULAMASI.pdb
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.HastaKayit.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.AnaSayfa.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.FormSağlıkKaydı.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.sumiktari.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.EgzersizProgrami.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.Raporlar.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.barcodes.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.commons.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.forms.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.io.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.kernel.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.layout.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.pdfa.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.pdfua.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.sign.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.styledxmlparser.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.svg.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Buffers.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Memory.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.barcodes.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.commons.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.forms.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.io.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.kernel.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.layout.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.pdfa.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.pdfua.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.sign.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.styledxmlparser.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.svg.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Buffers.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Memory.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.SaglikKayit.resources
+C:\Users\ASUS TUF F15\Desktop\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\KÜLTÜR SAĞLIK TAKİP UYGULAMASI\obj\Debug\KÜLTÜR_SAĞLIK_TAKİP_UYGULAMASI.PersonelGiris.resources
